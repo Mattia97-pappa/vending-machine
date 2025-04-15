@@ -1,5 +1,7 @@
 # Vending Machine Simulator 🥤
 
+Lenguage: Italian 🇮🇹
+
 A Java-based console application that simulates a vending machine.  
 Users can select products, insert coins, and receive change.
 
@@ -15,6 +17,6 @@ Users can select products, insert coins, and receive change.
 - File I/O
 
 ## 📸 Demo
-![Demo GIF](https://i.ibb.co/bg8K4t70/Animazione.gif)
+![Demo GIF](https://i.ibb.co/tT32gC4g/Animazione.gif)
 
 
