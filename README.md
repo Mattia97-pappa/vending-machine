@@ -2,6 +2,11 @@
 
 Lenguage: Italian 🇮🇹
 
+
+How to download: git clone https://github.com/Mattia97-pappa/vending-machine.git
+
+
+
 A Java-based console application that simulates a vending machine.  
 Users can select products, insert coins, and receive change.
 
