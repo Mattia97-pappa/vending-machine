@@ -3,7 +3,12 @@
 Lenguage: Italian 🇮🇹
 
 
-How to download: git clone https://github.com/Mattia97-pappa/vending-machine.git
+How to download: 
+
+```bash
+git clone https://github.com/Mattia97-pappa/vending-machine.git
+cd vending-machine
+```
 
 
 
