@@ -1,6 +1,6 @@
-# Vending Machine Simulator 🥤
+# Simulazione Macchinetta Automatica  🥤
 
-Lenguage: Italian 🇮🇹
+
 
 
 How to download: 
@@ -12,13 +12,15 @@ cd vending-machine
 
 
 
-A Java-based console application that simulates a vending machine.  
-Users can select products, insert coins, and receive change.
+Un'applicazione console basata su Java che simula una macchina automatica.
+Gli utenti possono selezionare i prodotti, inserire monete e ricevere il resto.
 
-## 🚀 Features
-- Product selection from a menu
-- Coin insertion & change calculation
-- Handles out-of-stock & low funds
+## 🚀 Funzionalità
+Selezione del prodotto da un menu
+
+Inserimento delle monete e calcolo del resto
+
+Gestione della scarsità di scorte e fondi insufficienti
 
 ## 🛠 Technologies
 - Java
