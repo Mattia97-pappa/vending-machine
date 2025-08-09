@@ -24,9 +24,8 @@ Gestione della scarsità di scorte e fondi insufficienti
 
 ## 🛠 Technologies
 - Java
-- OOP
 - Scanner input
-- File I/O
+
 
 ## 📸 Demo
 ![Demo GIF](https://i.ibb.co/tT32gC4g/Animazione.gif)
