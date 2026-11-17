@@ -27,7 +27,7 @@ Gestione della scarsità di scorte e fondi insufficienti
 - Scanner input
 
 
-## 📸 Demo
+## Demo
 ![Demo GIF](https://i.ibb.co/tT32gC4g/Animazione.gif)
 
 
