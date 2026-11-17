@@ -1,4 +1,4 @@
-# Simulazione Macchinetta Automatica  🥤
+# Simulazione Macchinetta Automatica  
 
 
 
@@ -15,7 +15,7 @@ cd vending-machine
 Un'applicazione console basata su Java che simula una macchina automatica.
 Gli utenti possono selezionare i prodotti, inserire monete e ricevere il resto.
 
-## 🚀 Funzionalità
+##  Funzionalità
 Selezione del prodotto da un menu
 
 Inserimento delle monete e calcolo del resto
